@@ -1,4 +1,4 @@
-After Cloning
+After Cloning run both frontend and backend simultaneously
 
 # Frontend Setup
  1. Got to frontend directory `tlv300-fe`
