@@ -3,13 +3,13 @@ After Cloning run both frontend and backend simultaneously
 # Frontend Setup
  1. Got to frontend directory `tlv300-fe`
  2. run `npm install`
- 3. run `cp .env.example .env`
+ 3. run `cp .env.example .env` or copy & paste `.env.example` then rename `.env`
  4. run `npm run dev`
  5. visit `http://localhost:5000`
 
-# BackEnd Setup
+# Backend Setup
  1. Got to backend directory `tlv300-be`
  2. run `npm install`
- 3. run `cp .env.example .env`
+ 3. run `cp .env.example .env` or copy & paste `.env.example` then rename `.env`
  4. run `npm run start:dev`
 
